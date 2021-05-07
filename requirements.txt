@@ -1,3 +1,5 @@
+To run this program, the following Python packages are needed:
+
 matplotlib==3.3.2
 numpy==1.18.4
 pandas==1.1.4
