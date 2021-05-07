@@ -19,11 +19,12 @@ Managing salmon louse _Lepeophtheirus salmonis_ outbreaks is a crucial part of s
 
 	
 ## Technologies
-Project is created with:
+The project is created with:
 * Python version 3.7?
 	
 ## Setup
-To run this project, you need to install Python.Python can be downloaded [here](https://www.python.org/downloads/).
+To run this project, you need to install Python. Python can be downloaded [here](https://www.python.org/downloads/).
+
 The repository can be downloaded to your local environment, where running the file Test_run.py will simulate a simple test run where no external data is needed. Be aware that matplotlib 3.3.2 or newer is needed.
 
     
